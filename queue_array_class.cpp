@@ -99,8 +99,6 @@ int main()
 
     cout << endl;
     cout << "-------------------****DYNAMIC QUEUE****-----------------" << endl;
-
-    cout << endl;
     cout << endl;
     cout << "Enter capacity of your Queue :   ";
     cin >> capacity;
