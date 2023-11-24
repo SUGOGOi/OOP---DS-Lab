@@ -15,5 +15,6 @@ public:
 int main()
 {
     Hero h1;
+    Hero *H = new Hero;
     return 0;
 }
